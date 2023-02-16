@@ -6,6 +6,7 @@ Completar y marcar las siguientes actividades:
 - [x] Crear README.md
 - [ ] Crear licencia
 - [ ] Crear .gitignore
+- [ ] Crear una rama llamada 'Updates' 
 - [ ] Creación de estructura básica
 
 ------------------------------------------------------
